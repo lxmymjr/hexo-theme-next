@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "编程"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -33,11 +33,11 @@ copyright: false
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
-# subtitle: Subtitle
-index_with_subtitle: false
+subtitle: LIU,XIMING
+index_with_subtitle: true
 
 
 # ---------------------------------------------------------------
